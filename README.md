@@ -215,7 +215,6 @@ binner / piecewise-constant smoothers
 LOWESS
 additive seasonal decomposition smoothers
 Kalman level and local-linear trend smoothers
-difference-domain smoothers reconstructed back to level scale
 ```
 
 The active pool is controlled by:
