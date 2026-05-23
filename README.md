@@ -1,7 +1,6 @@
 <img width="4215" height="2133" alt="datasets_overview" src="https://github.com/user-attachments/assets/d84e1bb4-3daf-4ab0-9161-64f2020acff5" />
-<img width="5695" height="6470" alt="viz_study" src="https://github.com/user-attachments/assets/9ef62682-281e-4333-b841-d843d86230f8" />
 <img width="4528" height="4778" alt="sample_3_tasks_per_domain" src="https://github.com/user-attachments/assets/d1e3d8fd-27ab-4995-b597-7e446e888b5b" />
-
+<img width="5695" height="6470" alt="viz_study" src="https://github.com/user-attachments/assets/9ef62682-281e-4333-b841-d843d86230f8" />
 
 # AdaptSmooth
 
