@@ -712,7 +712,7 @@ If you use this repository, please cite the corresponding paper once available.
 
 ```bibtex
 @article{pintelas2026adaptsmooth,
-  title   = {AdaptSmooth: Few-shot Time-Series Forecasting through Online-Adapted Smoothing Signals},
+  title   = {Few-shot time series forecasting through online-adapted smoothing signals},
   author  = {Pintelas, Emmanuel and Livieris, Ioannis E. and Karagrigoriou, Alex},
   journal = {Manuscript under review},
   year    = {2026}
