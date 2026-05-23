@@ -1,6 +1,6 @@
 
 <img width="4528" height="4778" alt="sample_3_tasks_per_domain" src="https://github.com/user-attachments/assets/04fec041-9c0b-42ed-9b50-2a452ecb8ddd" />
-
+<img width="5695" height="6470" alt="viz_study" src="https://github.com/user-attachments/assets/513b0788-c79c-4511-99a4-d8c6c1e770df" />
 
 # AdaptSmooth
 
@@ -718,7 +718,3 @@ If you use this repository, please cite the corresponding paper once available.
   year    = {2026}
 }
 ```
-
-<img width="5695" height="6470" alt="viz_study" src="https://github.com/user-attachments/assets/513b0788-c79c-4511-99a4-d8c6c1e770df" />
-
-
