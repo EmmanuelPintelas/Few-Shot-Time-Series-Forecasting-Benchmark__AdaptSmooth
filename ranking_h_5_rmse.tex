@@ -1,0 +1,31 @@
+\begin{table}[!t]
+\centering
+\caption{Friedman aligned-ranks statistical comparison for horizon $h=5$ using RMSE as the task-level error metric. Lower ranking values indicate better performance. The best-ranked method is used as the control in the Finner post-hoc test.}
+\label{tab:far_ranking_h_5_rmse}
+\begin{tabular}{lccc}
+\toprule
+Model & \begin{tabular}{c}Friedman\\Ranking\end{tabular} & \multicolumn{2}{c}{Finner post-hoc test} \\
+\cmidrule(lr){3-4}
+ & & $p$-value & $H_0$ \\
+\midrule
+AdaptSmooth-Chronos2 & 4524.8 & -- & -- \\
+Chronos2 & 4807.0 & $<10^{-12}$ & Rejected \\
+ChronosBolt\_Mini & 5026.0 & $<10^{-12}$ & Rejected \\
+ChronosBolt\_Tiny & 5033.9 & $<10^{-12}$ & Rejected \\
+SES & 5851.8 & $<10^{-12}$ & Rejected \\
+Theta & 6063.6 & $<10^{-12}$ & Rejected \\
+AutoARIMA & 6382.7 & $<10^{-12}$ & Rejected \\
+Naive & 6436.5 & $<10^{-12}$ & Rejected \\
+ETS & 6587.1 & $<10^{-12}$ & Rejected \\
+Drift & 6902.2 & $<10^{-12}$ & Rejected \\
+LocalFITS\_L5\_Cauto\_ep20 & 7181.1 & $<10^{-12}$ & Rejected \\
+LocalDLinear\_L5\_K3\_ep20 & 8956.5 & $<10^{-12}$ & Rejected \\
+SeasonalNaive & 10753.2 & $<10^{-12}$ & Rejected \\
+\bottomrule
+\end{tabular}
+\par\vspace{1mm}
+\begin{minipage}{0.95\linewidth}
+\footnotesize
+\emph{Note.} Global Friedman aligned-ranks test: $T=3486.3950$, $df=12$, $p<10^{-12}$, $N=1000$ complete task blocks.
+\end{minipage}
+\end{table}
